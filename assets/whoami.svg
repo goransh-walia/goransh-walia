@@ -1,0 +1,52 @@
+<svg width="1000" height="520" viewBox="0 0 1000 520" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <pattern id="grid2" width="24" height="24" patternUnits="userSpaceOnUse">
+      <path d="M 24 0 L 0 0 0 24" fill="none" stroke="#14151A" stroke-width="0.5" opacity="0.05"/>
+    </pattern>
+    <style>
+      .mono { font-family: 'JetBrains Mono','Fira Code','Courier New',monospace; }
+      .k { fill:#6E3AFF; font-weight:700; }
+      .v { fill:#14151A; }
+      .h { fill:#FF5A36; font-weight:800; }
+      .b { fill:#2B5EFF; }
+      .c { fill:#8A8F98; }
+    </style>
+  </defs>
+
+  <rect width="1000" height="520" fill="#FFFFFF"/>
+
+  <!-- offset shadow block -->
+  <rect x="34" y="24" width="932" height="460" fill="#FFC300"/>
+
+  <!-- main card -->
+  <rect x="22" y="12" width="932" height="460" fill="#FFFFFF" stroke="#14151A" stroke-width="3"/>
+  <rect x="22" y="12" width="932" height="460" fill="url(#grid2)"/>
+
+  <!-- title bar -->
+  <rect x="22" y="12" width="932" height="44" fill="#14151A"/>
+  <rect x="46" y="34" width="14" height="14" fill="#FF5A36"/>
+  <rect x="70" y="34" width="14" height="14" fill="#FFC300"/>
+  <rect x="94" y="34" width="14" height="14" fill="#2B5EFF"/>
+  <text x="500" y="40" text-anchor="middle" class="mono" font-size="14" fill="#F5F5F0">guest@goransh-walia: ~</text>
+
+  <!-- body -->
+  <g class="mono" font-size="17">
+    <text x="52" y="100" class="b" font-weight="700">guest@goransh-walia</text><text x="272" y="100" class="v">:</text><text x="282" y="100" class="k">~$</text><text x="320" y="100" class="v"> whoami</text>
+
+    <text x="52" y="140" class="h">Name</text><text x="180" y="140" class="c">:</text><text x="196" y="140" class="v">Goransh Walia</text>
+    <text x="52" y="168" class="h">Role</text><text x="180" y="168" class="c">:</text><text x="196" y="168" class="v">Computer Science Student</text>
+    <text x="196" y="192" class="v">Full-Stack Developer</text>
+    <text x="196" y="216" class="v">AI Developer</text>
+    <text x="196" y="240" class="v">Open Source Contributor</text>
+    <text x="52" y="264" class="h">Base</text><text x="180" y="264" class="c">:</text><text x="196" y="264" class="v">Punjab, India</text>
+
+    <text x="52" y="304" class="k" font-weight="700">Languages</text><text x="196" y="304" class="v">Python · JavaScript · TypeScript</text>
+    <text x="52" y="328" class="k" font-weight="700">Frameworks</text><text x="196" y="328" class="v">FastAPI · React · Next.js · Node.js · Express</text>
+    <text x="52" y="352" class="k" font-weight="700">Databases</text><text x="196" y="352" class="v">MongoDB · PostgreSQL</text>
+    <text x="52" y="376" class="k" font-weight="700">Tools</text><text x="196" y="376" class="v">Git · Docker · Firebase · VS Code · Linux</text>
+
+    <text x="52" y="416" class="h">Current Focus</text>
+    <text x="70" y="440" class="b">&gt;</text><text x="90" y="440" class="v">Open Source Contributions</text>
+    <text x="70" y="460" class="b">&gt;</text><text x="90" y="460" class="v">Artificial Intelligence &amp; Backend Systems</text>
+  </g>
+</svg>

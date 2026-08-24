@@ -1,0 +1,12 @@
+<svg width="1000" height="120" viewBox="0 0 1000 120" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <style>.mono { font-family: 'JetBrains Mono','Fira Code','Courier New',monospace; }</style>
+  </defs>
+  <rect width="1000" height="120" fill="#FFFFFF"/>
+  <rect x="0" y="0" width="250" height="14" fill="#FF5A36"/>
+  <rect x="250" y="0" width="250" height="14" fill="#FFC300"/>
+  <rect x="500" y="0" width="250" height="14" fill="#2B5EFF"/>
+  <rect x="750" y="0" width="250" height="14" fill="#6E3AFF"/>
+  <text x="500" y="70" text-anchor="middle" class="mono" font-size="16" font-weight="700" fill="#14151A">Built with intent — Goransh Walia, 2026</text>
+  <text x="500" y="96" text-anchor="middle" class="mono" font-size="12" fill="#8A8F98">Terminal aesthetic, dialed up.</text>
+</svg>

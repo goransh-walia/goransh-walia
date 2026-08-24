@@ -1,0 +1,41 @@
+<svg width="1000" height="260" viewBox="0 0 1000 260" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <pattern id="dotgrid" width="18" height="18" patternUnits="userSpaceOnUse">
+      <circle cx="1.5" cy="1.5" r="1.5" fill="#14151A" opacity="0.06"/>
+    </pattern>
+    <style>
+      .disp { font-family: 'Space Grotesk','Segoe UI',Helvetica,Arial,sans-serif; }
+      .mono { font-family: 'JetBrains Mono','Fira Code','Courier New',monospace; }
+    </style>
+  </defs>
+
+  <!-- base -->
+  <rect width="1000" height="260" fill="#FFFFFF"/>
+  <rect width="1000" height="260" fill="url(#dotgrid)"/>
+
+  <!-- big geometric color blocks, bauhaus composition -->
+  <polygon points="720,0 1000,0 1000,260 860,260" fill="#6E3AFF"/>
+  <polygon points="860,0 1000,0 1000,130" fill="#FFC300" opacity="0.9"/>
+  <rect x="0" y="228" width="1000" height="32" fill="#2B5EFF"/>
+  <circle cx="905" cy="190" r="34" fill="#FF5A36"/>
+  <rect x="0" y="0" width="14" height="260" fill="#FF5A36"/>
+
+  <!-- eyebrow tag -->
+  <g transform="translate(48,44)">
+    <rect x="0" y="0" width="150" height="30" fill="#14151A"/>
+    <rect x="-5" y="5" width="150" height="30" fill="#FFC300"/>
+    <rect x="0" y="0" width="150" height="30" fill="#14151A"/>
+    <text x="14" y="20" class="mono" font-size="14" fill="#FFC300" font-weight="700">$ whoami --dev</text>
+  </g>
+
+  <!-- name -->
+  <text x="48" y="150" class="disp" font-size="64" font-weight="800" fill="#14151A">GORANSH WALIA</text>
+
+  <!-- subtitle -->
+  <text x="50" y="188" class="mono" font-size="19" font-weight="600" fill="#2B5EFF">AI &amp; Data Science  ·  Full-Stack Developer  ·  Open Source</text>
+
+  <!-- small underline accents -->
+  <rect x="50" y="202" width="90" height="6" fill="#FF5A36"/>
+  <rect x="146" y="202" width="40" height="6" fill="#FFC300"/>
+  <rect x="192" y="202" width="60" height="6" fill="#6E3AFF"/>
+</svg>
