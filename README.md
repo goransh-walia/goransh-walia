@@ -1,81 +1,115 @@
 <div align="center">
 
-<img src="assets/header.svg" alt="Goransh Walia" width="100%" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=800&color=00FF41&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Goransh+%F0%9F%91%8B;B.Tech+Data+Science+%26+Engineering;Building+AI+%2B+Automation+Systems;Always+shipping+something..." alt="Typing SVG" />
 
 <br/>
 
-[![Profile Views](https://komarev.com/ghpvc/?username=goransh-walia&label=PROFILE+VIEWS&color=FF5A36&style=for-the-badge)](https://github.com/goransh-walia)
-[![Followers](https://img.shields.io/github/followers/goransh-walia?label=FOLLOWERS&style=for-the-badge&color=2B5EFF&labelColor=14151A)](https://github.com/goransh-walia?tab=followers)
-[![Email](https://img.shields.io/badge/EMAIL-14151A?style=for-the-badge&logo=gmail&logoColor=FFC300)](mailto:goranshw007@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LINKEDIN-14151A?style=for-the-badge&logo=linkedin&logoColor=2B5EFF)](https://linkedin.com/in/goransh-walia-85065b383)
+<img src="https://img.shields.io/badge/STATUS-ONLINE-00FF41?style=for-the-badge&labelColor=0d0d0d&logo=matrix&logoColor=00FF41" />
+<img src="https://img.shields.io/badge/FOCUS-DATA%20SCIENCE%20%26%20AI-00FF41?style=for-the-badge&labelColor=0d0d0d" />
+<img src="https://img.shields.io/badge/LOOKING%20FOR-AI%2FDATA%20INTERNSHIP-00FF41?style=for-the-badge&labelColor=0d0d0d" />
 
 </div>
 
 <br/>
 
-<img src="assets/tag-01.svg" alt="01 — about" />
+```
+> whoami
+Goransh_Buh — B.Tech Data Science & Engineering @ Thapar Institute of Engineering & Technology (2023–2027)
 
-<img src="assets/whoami.svg" alt="whoami" width="100%" />
+> current_objective
+Building a strong open-source portfolio -> landing a Data/AI internship
 
-<br/><br/>
-
-<img src="assets/tag-02.svg" alt="02 — stack" />
-<br/><br/>
-
-<div align="center">
-<img src="https://skillicons.dev/icons?i=py,js,ts,fastapi,react,nextjs,nodejs,express,mongodb,postgres,git,docker,firebase,linux,vscode&theme=light" alt="tech stack" />
-</div>
+> status
+_ compiling relentlessly...
+```
 
 <br/>
 
-<img src="assets/tag-03.svg" alt="03 — projects" />
-<br/><br/>
+### <img src="https://img.shields.io/badge/-%3E_SYSTEM_LOG-000000?style=flat-square&labelColor=0d0d0d&color=00FF41" /> what I'm building
 
-<div align="center">
+<table>
+<tr>
+<td width="50%" valign="top">
 
-<a href="https://github.com/goransh-walia/ml-experiment-tracker"><img src="https://github-readme-stats.vercel.app/api/pin/?username=goransh-walia&repo=ml-experiment-tracker&bg_color=FFFFFF&title_color=14151A&text_color=14151A&icon_color=6E3AFF&border_color=14151A&border_radius=0" /></a>
-<a href="https://github.com/goransh-walia/sentiment-classifier"><img src="https://github-readme-stats.vercel.app/api/pin/?username=goransh-walia&repo=sentiment-classifier&bg_color=FFFFFF&title_color=14151A&text_color=14151A&icon_color=2B5EFF&border_color=14151A&border_radius=0" /></a>
-<br/>
-<a href="https://github.com/goransh-walia/dev-journal"><img src="https://github-readme-stats.vercel.app/api/pin/?username=goransh-walia&repo=dev-journal&bg_color=FFFFFF&title_color=14151A&text_color=14151A&icon_color=FF5A36&border_color=14151A&border_radius=0" /></a>
-<a href="https://github.com/goransh-walia/weather-dashboard"><img src="https://github-readme-stats.vercel.app/api/pin/?username=goransh-walia&repo=weather-dashboard&bg_color=FFFFFF&title_color=14151A&text_color=14151A&icon_color=FFC300&border_color=14151A&border_radius=0" /></a>
+**🤖 LocalAI Copilot**
+Local-first desktop AI assistant — Electron + React + FastAPI, with Whisper speech-to-text, screen vision analysis, and a RAG knowledge base (FAISS) over your own documents. Runs fully on-device.
 
-</div>
+`Electron` `React` `TypeScript` `FastAPI` `Whisper` `FAISS`
 
-<br/>
+</td>
+<td width="50%" valign="top">
 
-<img src="assets/tag-04.svg" alt="04 — stats" />
-<br/><br/>
+**⚙️ GitHub Contribution Bot**
+Automated pipeline that surfaces real open-source issues, generates fixes, and opens legitimate PRs across external repos — a self-driving portfolio builder running on GitHub Actions.
 
-<div align="center">
+`Python` `GitHub Actions` `LLM Automation` `GitHub API`
 
-<img src="https://github-readme-stats.vercel.app/api?username=goransh-walia&show_icons=true&count_private=true&hide_title=false&bg_color=FFFFFF&text_color=14151A&icon_color=FF5A36&title_color=14151A&border_color=14151A&border_radius=0" width="49%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=goransh-walia&layout=compact&bg_color=FFFFFF&text_color=14151A&title_color=14151A&border_color=14151A&border_radius=0" width="30%" />
-
-<br/>
-
-<img src="https://streak-stats.demolab.com/?user=goransh-walia&background=FFFFFF&border=14151A&ring=2B5EFF&fire=FF5A36&currStreakLabel=14151A&sideLabels=14151A&dates=8A8F98&sideNums=14151A&border_radius=0" width="65%" />
-
-<br/><br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=goransh-walia&bg_color=FFFFFF&color=14151A&line=2B5EFF&point=FF5A36&area=true&area_color=FFC300&hide_border=false&border_color=14151A" width="100%" />
-
-</div>
+</td>
+</tr>
+</table>
 
 <br/>
 
-<img src="assets/tag-05.svg" alt="05 — connect" />
-<br/><br/>
+### <img src="https://img.shields.io/badge/-%3E_TECH_STACK-000000?style=flat-square&labelColor=0d0d0d&color=00FF41" /> arsenal
 
 <div align="center">
 
-[![Email](https://img.shields.io/badge/-goranshw007@gmail.com-14151A?style=for-the-badge&logo=gmail&logoColor=FFC300)](mailto:goranshw007@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/-Goransh_Walia-14151A?style=for-the-badge&logo=linkedin&logoColor=2B5EFF)](https://linkedin.com/in/goransh-walia-85065b383)
-[![GitHub](https://img.shields.io/badge/-goransh--walia-14151A?style=for-the-badge&logo=github&logoColor=FF5A36)](https://github.com/goransh-walia)
+<img src="https://img.shields.io/badge/Python-0d0d0d?style=for-the-badge&logo=python&logoColor=00FF41" />
+<img src="https://img.shields.io/badge/TypeScript-0d0d0d?style=for-the-badge&logo=typescript&logoColor=00FF41" />
+<img src="https://img.shields.io/badge/React-0d0d0d?style=for-the-badge&logo=react&logoColor=00FF41" />
+<img src="https://img.shields.io/badge/FastAPI-0d0d0d?style=for-the-badge&logo=fastapi&logoColor=00FF41" />
+<img src="https://img.shields.io/badge/PyTorch-0d0d0d?style=for-the-badge&logo=pytorch&logoColor=00FF41" />
+<img src="https://img.shields.io/badge/Pandas-0d0d0d?style=for-the-badge&logo=pandas&logoColor=00FF41" />
+<img src="https://img.shields.io/badge/Docker-0d0d0d?style=for-the-badge&logo=docker&logoColor=00FF41" />
+<img src="https://img.shields.io/badge/Git-0d0d0d?style=for-the-badge&logo=git&logoColor=00FF41" />
+<img src="https://img.shields.io/badge/GitHub_Actions-0d0d0d?style=for-the-badge&logo=githubactions&logoColor=00FF41" />
+<img src="https://img.shields.io/badge/SQLite-0d0d0d?style=for-the-badge&logo=sqlite&logoColor=00FF41" />
 
 </div>
 
 <br/>
 
+### <img src="https://img.shields.io/badge/-%3E_STATS-000000?style=flat-square&labelColor=0d0d0d&color=00FF41" /> the numbers
+
 <div align="center">
-<img src="assets/footer.svg" alt="footer" width="100%" />
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=goransh-buh&show_icons=true&hide_border=true&bg_color=0d0d0d&title_color=00FF41&icon_color=00FF41&text_color=c9d1d9&ring_color=00FF41" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=goransh-buh&layout=compact&hide_border=true&bg_color=0d0d0d&title_color=00FF41&text_color=c9d1d9&langs_count=8" />
+
+<br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=goransh-buh&hide_border=true&background=0d0d0d&ring=00FF41&fire=00FF41&currStreakLabel=00FF41" />
+
+</div>
+
+<br/>
+
+### <img src="https://img.shields.io/badge/-%3E_ACTIVITY-000000?style=flat-square&labelColor=0d0d0d&color=00FF41" /> contribution graph
+
+<div align="center">
+<img src="https://raw.githubusercontent.com/goransh-buh/goransh-buh/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
+</div>
+
+<sub>⚠️ Snake animation needs a one-time setup — see note at the bottom.</sub>
+
+<br/>
+
+### <img src="https://img.shields.io/badge/-%3E_CONNECT-000000?style=flat-square&labelColor=0d0d0d&color=00FF41" /> reach me
+
+<div align="center">
+
+<a href="https://github.com/goransh-buh"><img src="https://img.shields.io/badge/GitHub-0d0d0d?style=for-the-badge&logo=github&logoColor=00FF41" /></a>
+<a href="#"><img src="https://img.shields.io/badge/LinkedIn-0d0d0d?style=for-the-badge&logo=linkedin&logoColor=00FF41" /></a>
+<a href="#"><img src="https://img.shields.io/badge/Email-0d0d0d?style=for-the-badge&logo=gmail&logoColor=00FF41" /></a>
+
+</div>
+
+<br/>
+
+<div align="center">
+<img src="https://komarev.com/ghpvc/?username=goransh-buh&label=PROFILE+VIEWS&color=00FF41&style=for-the-badge&labelColor=0d0d0d" />
+</div>
+
+<div align="center">
+<sub>~ system idle, awaiting next commit ~</sub>
 </div>
