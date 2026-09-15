@@ -38,9 +38,6 @@ Currently Learning:
   - Large Language Models
   - Data Science
 
-Currently Building:
-  - Human-like GitHub Contribution Bot
-  - AI Counselling Assistant
 
 Goals:
   - Contribute to Open Source
